@@ -2,9 +2,7 @@
 
 
 
-项目名称 Gohub，以论坛 API 为主题，设计的初衷是将其打造为高性能、功能齐全的 API 框架。
-
-程序结构说明，请见 [程序结构](https://learnku.com/courses/go-api/1.17/program-structure/11772)。
+项目名称 Gohub，设计的初衷是将其打造为高性能、功能齐全的 API 框架。
 
 ## RESTful API 最佳实践
 
@@ -23,7 +21,6 @@
 11. 自带分页链接
 12. 强制 User-Agent
  
-详细讲解请见 [RESTful API 最佳实践](https://learnku.com/courses/go-api/1.17/api-development-best-practices/11769) 。
 
 ## 所有路由
 
